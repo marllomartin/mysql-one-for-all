@@ -127,7 +127,7 @@ VALUES
   ("Celebration Of More", "146", "4", "3"),
   ("Rock His Everything", "223", "4", "3"),
   ("Home Forever", "231", "4", "3"),
-  ("Diamond Power", "242", "4", "3"),
+  ("Diamond Power", "241", "4", "3"),
   ("Let's Be Silly", "132", "4", "3"),
   ("Thang Of Thunder", "240", "5", "4"),
   ("Words Of Her Life", "185", "5", "4"),
