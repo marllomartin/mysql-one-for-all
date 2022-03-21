@@ -4,5 +4,5 @@ SELECT
   COUNT(DISTINCT artists.artist_id) as artistas
 
 FROM SpotifyClone.songs
-  JOIN SpotifyClone.albums
-  JOIN SpotifyClone.artists;
+  INNER JOIN SpotifyClone.albums
+  INNER JOIN SpotifyClone.artists;
