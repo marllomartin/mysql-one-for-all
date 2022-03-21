@@ -4,6 +4,6 @@ SELECT
 
 FROM
     SpotifyClone.users
-    JOIN SpotifyClone.history ON history.user_id = users.user_id
+    INNER JOIN SpotifyClone.history ON history.user_id = users.user_id
 
-GROUP BY usuario;
+GROUP BY usuario ORDER BY usuario;
