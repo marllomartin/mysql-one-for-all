@@ -70,12 +70,12 @@ CREATE TABLE SpotifyClone.following(
     REFERENCES artists (artist_id)
 );
 
-  INSERT INTO SpotifyClone.plans(plan_name, plan_value)
-  VALUES
-    ("gratuito", "0"),
-    ("universitário", "5.99"),
-    ("pessoal", "6.99"),
-    ("familiar", "7.99");
+INSERT INTO SpotifyClone.plans(plan_name, plan_value)
+VALUES
+  ("gratuito", "0"),
+  ("universitário", "5.99"),
+  ("pessoal", "6.99"),
+  ("familiar", "7.99");
 
 INSERT INTO SpotifyClone.users (user_name, user_age, user_join_date, plan_id)
 VALUES
