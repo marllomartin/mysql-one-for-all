@@ -1,6 +1,6 @@
 SELECT 
   artists.artist_name AS artista,
-	albums.album_name AS albums
+	albums.album_name AS album
 
 FROM
 	SpotifyClone.artists
@@ -8,4 +8,4 @@ FROM
     
 WHERE artists.artist_name = 'Walter Phoenix'
 
-ORDER BY albums;
+ORDER BY album;
