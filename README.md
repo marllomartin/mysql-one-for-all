@@ -7,7 +7,7 @@
 ## Sobre
 Projeto desenvolvido durante meus estudos na [Trybe](https://www.betrybe.com/) afim de consolidar todos os principais conceitos de [MySQL](https://www.mysql.com/).
 
-Nesse projeto, foi solicitado a normalização de uma tabela não normalizada e a elaboração de queries específicas com o intuito de encontrar as informações solicitadas por cada desafio.
+Nesse projeto, foi solicitado a normalização de uma tabela não normalizada e o planejamento de queries específicas com o intuito de encontrar as informações solicitadas por cada desafio.
 
 
 ## Requisitos do projeto
