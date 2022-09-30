@@ -12,6 +12,8 @@ Nesse projeto, foi solicitado a normalização de uma tabela não normalizada e 
 
 ## Requisitos do projeto
 
+Normalize uma tabela na terceira forma normal e acesse as informações desta tabela através de queries utilizando SQL.
+
 ### Desafio 1
 
 * Crie um banco com o nome de **`SpotifyClone`**.
